@@ -73,3 +73,9 @@ h3{
     top: 100px; 
     left: 100px;
 }
+
+#member{
+    position:relative;
+    top: 50;
+    left: 150;
+}
