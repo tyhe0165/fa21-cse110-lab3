@@ -79,3 +79,7 @@ h3{
     top: 50;
     left: 150;
 }
+
+button:hover{
+    color: red;
+}
