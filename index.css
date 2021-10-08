@@ -1,14 +1,21 @@
 #div2{
-    color: yellow
+    color: yellow;
 }
 
 header{
-    text-align: center
+    text-align: center;
 }
 h2{
     text-decoration: purple wavy underline;
-    text-align: center
+    text-align: center;
 }
 h3{
-    background-color: yellow
+    background-color: yellow;
+}
+
+.box{
+    border-style:dashed;
+    border-color:violet;
+    border-width:2in;
+    border-radius: 20px;
 }
