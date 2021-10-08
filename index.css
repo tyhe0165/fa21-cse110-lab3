@@ -2,6 +2,13 @@
     color: yellow
 }
 
-.header{
+header{
     text-align: center
+}
+h2{
+    text-decoration: purple wavy underline;
+    text-align: center
+}
+h3{
+    background-color: yellow
 }
