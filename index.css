@@ -67,3 +67,9 @@ h3{
     max-height: none;
 
 }
+
+#date{
+    position: absolute;
+    top: 100px; 
+    left: 100px;
+}
