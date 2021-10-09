@@ -42,8 +42,8 @@ h3{
 #div2{
     border-style:dashed;
     border-color:orangered;
-    border-width:2in;
-    border-radius: 20px;
+    border-width:50vw;
+    border-radius:50vh;
 }
 #div3{
     border-style:dashed;
