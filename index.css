@@ -50,7 +50,7 @@ h3{
     border-color:teal;
     border-width:2in;
     border-radius: 20px;
-    margin:auto;
+    margin:50,50,50,50;
 }
 #div4{
     border-style:dashed;
