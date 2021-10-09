@@ -166,7 +166,3 @@ p ~ p{
 hr, div {
     border: green 5px solid;
   }
-
-#field .rice{
-    background: pink;
-  }
