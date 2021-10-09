@@ -132,3 +132,7 @@ button{
 p[target="detailsP"]{
     background: blue;
 }
+
+ul li{
+    background: grey;
+}
