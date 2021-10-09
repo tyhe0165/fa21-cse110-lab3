@@ -68,6 +68,11 @@ p{
     border-width:2in;
     border-radius: 20px;
     display:grid;
+    display: inline-grid;
+
+    grid-row-gap: 50px;
+    column-gap: 100px;
+    
 }
 #div5{
     border-style:dashed;
