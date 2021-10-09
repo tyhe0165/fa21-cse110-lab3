@@ -128,3 +128,7 @@ button{
       background: yellow;
     }
   }
+
+p[target="detailsP"]{
+    background: blue;
+}
