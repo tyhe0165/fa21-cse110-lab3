@@ -166,3 +166,8 @@ p ~ p{
 hr, div {
     border: green 5px solid;
   }
+
+  p.select{
+      background: black;
+      color:white;
+  }
