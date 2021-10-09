@@ -69,7 +69,6 @@ p{
     border-radius: 20px;
     display:grid;
     display: inline-grid;
-
     grid-row-gap: 50px;
     column-gap: 100px;
     
@@ -117,12 +116,12 @@ button{
 }
 
 #field{
-    margin:200px;
+    margin:200px, 100px, 50px, 100px;
 }
 
 #video{
     width: 1500px;
-    padding-right:200px;
+    padding:200px, 100px, 200px, 50px;
     
 }
 
