@@ -42,6 +42,7 @@ p{
     border-color:orange;
     border-width:2mm;
     border-radius: 2px;
+    display: inline;
 }
 
 #div2{
@@ -55,18 +56,26 @@ p{
     border-color:teal;
     border-width:2in;
     border-radius: 20px;
+    display: flex;
+    flex-direction: column-reverse;
+    align-items: baseline;
+    justify-content: center;
+    align-items: center;
 }
 #div4{
     border-style:dashed;
     border-color:burlywood;
     border-width:2in;
     border-radius: 20px;
+    display:grid;
 }
 #div5{
     border-style:dashed;
     border-color:blue;
     border-width:2in;
     border-radius: 20px;
+    display: grid;
+    
 }
 
 #title{
@@ -116,6 +125,7 @@ button{
     width: 100px;
     padding-bottom: 200px;
     margin:auto;
+    display: block;
 }
 
 #AI{
@@ -143,3 +153,11 @@ ol > li{
 div + p{
     background: #00A36C;
 }
+
+p ~ p{
+    background: red;
+}
+
+hr, div {
+    border: green 5px solid;
+  }
