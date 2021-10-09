@@ -101,10 +101,14 @@ button{
 }
 
 #video{
-    margin:auto;
+    width: 1500px;
+    padding-right:200px;
+    
 }
 
 #audio{
+    width: 100px;
+    padding-bottom: 200px;
     margin:auto;
 }
 
