@@ -136,3 +136,10 @@ p[target="detailsP"]{
 ul li{
     background: grey;
 }
+ol > li{
+    background:royalblue;
+}
+
+div + p{
+    background: #00A36C;
+}
