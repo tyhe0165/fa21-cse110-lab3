@@ -91,3 +91,7 @@ button:hover{
 button:active{
     color: green;
 }
+
+button{
+    margin-left: 100px;
+}
